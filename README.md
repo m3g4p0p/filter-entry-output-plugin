@@ -59,7 +59,7 @@ module.exports = {
 
 ## Alternatives
 
-You might also have a look at the (`FilterChunkWebpackPlugin`)[https://github.com/yeojz/filter-chunk-webpack-plugin] for another approach based purely on output file patterns.
+You might also have a look at the [`FilterChunkWebpackPlugin`](https://github.com/yeojz/filter-chunk-webpack-plugin) for another approach based purely on output file patterns.
 
 ## License
 
