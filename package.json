@@ -1,0 +1,20 @@
+{
+  "name": "filter-entry-output-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m3g4p0p/filter-entry-output-plugin"
+  },
+  "author": {
+    "name": "m3g4p0p"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  },
+  "scripts": {
+    "lint": "standard ./*.js",
+    "prepare": "yarn lint"
+  }
+}
